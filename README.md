@@ -3,6 +3,9 @@
 ## Sobre Mim
 Tenho 15 anos e recentemente retornei aos estudos de programação. Sou um iniciante na área, porém tenho experiência de mais de 6 meses com HTML, CSS, JavaScript e Python. Estou buscando oportunidades nessa área e me dedicando para aprender e evoluir constantemente.
 
+## Experiência Anterior
+Concluí um curso profissionalizante de 1 ano e 8 meses em Desenvolvimento de Sistemas. Apesar da experiência, decidi explorar outras áreas e não desejo seguir exclusivamente nesse ramo.
+
 ## Interesses
 - Estou interessado em explorar diversas áreas da programação.
 - Procuro aprender novas tecnologias e linguagens de programação.
