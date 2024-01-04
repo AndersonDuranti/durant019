@@ -6,6 +6,9 @@ Tenho 15 anos e recentemente retornei aos estudos de programação. Sou um inici
 ## Experiência Anterior
 Concluí um curso profissionalizante de 1 ano e 8 meses em Desenvolvimento de Sistemas. Apesar da experiência, decidi explorar outras áreas e não desejo seguir exclusivamente nesse ramo.
 
+## Estudos Autodidatas
+Além do curso profissionalizante, estou me dedicando a aprofundar meus conhecimentos por conta própria. Estudo HTML, CSS, JavaScript e Python utilizando recursos como os cursos em vídeo disponíveis no YouTube.
+
 ## Interesses
 - Estou interessado em explorar diversas áreas da programação.
 - Procuro aprender novas tecnologias e linguagens de programação.
